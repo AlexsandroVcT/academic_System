@@ -22,4 +22,4 @@ Este é um sistema de gerenciamento de academia que permite aos administradores 
 1. Clone este repositório em seu servidor web:
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-academia.git
+   git clone git@github.com:AlexsandroVcT/academic_System.git
